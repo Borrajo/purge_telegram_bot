@@ -1,0 +1,5 @@
+.env
+result.json
+countsMessages.json
+/node_modules
+/dist
